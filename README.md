@@ -234,3 +234,6 @@ This repository serves as the official landing page for Free Video Dub. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Free Video Dub today!**
+
+---
+**Last updated:** 2026-09-09 15:57:18 UTC
