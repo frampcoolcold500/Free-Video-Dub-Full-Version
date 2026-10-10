@@ -236,4 +236,4 @@ This repository serves as the official landing page for Free Video Dub. The soft
 **Get the most recent version of Free Video Dub today!**
 
 ---
-**Last updated:** 2026-10-10 15:43:02 UTC
+**Last updated:** 2026-10-10 19:46:24 UTC
